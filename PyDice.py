@@ -22,7 +22,7 @@ messages = {
 }
 
 class PyDice():
-    #   This function is the initilaize method and its purpose is to display the welcoming
+    #   This function is the initialize method and its purpose is to display the welcoming
     #   message when its parent class, PyDice() is called.
     def __init__(self):
         print(f'''
